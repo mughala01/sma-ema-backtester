@@ -2,8 +2,8 @@
 Quantitative trading backtester in Python implementing SMA &amp; EMA crossover strategy, portfolio simulation, and performance metrics
 # SMA–EMA Crossover Backtester
 
-**Author:** [YOUR NAME] • **Repo:** SMA-EMA-Backtester
-
+**Author:** Anna Mughal • **Repo:** SMA-EMA-Backtester
+ 
 ## What this is (in one sentence)
 A small Python script that backtests a simple moving-average crossover (SMA vs EMA) and plots the equity curve.
 
